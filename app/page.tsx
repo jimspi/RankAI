@@ -39,7 +39,7 @@ export default function Home() {
               Get Your Business Recommended by AI Search Engines
             </h1>
             <p className="text-xl text-gray-600 mb-8">
-              ChatGPT, Perplexity & AI Overviews are replacing Google. Make sure they recommend YOU.
+              ChatGPT, Perplexity & Claude are replacing Google. Make sure they recommend YOU. RankAI gives you the exact language and structure that AI models want to see and cite.
             </p>
 
             {/* Input Form */}
